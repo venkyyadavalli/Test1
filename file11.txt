@@ -1,0 +1,9 @@
+ This is file1
+<<<<<<< HEAD
+ Line 1
+ Line 2
+=======
+ Line 5
+ Line 6
+ line7
+>>>>>>> future_br
